@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Ativ9_Projeto;
 using Ativ9_Projeto.Data;
+using Ativ9_Projeto.Models;
 
 namespace Ativ9_Projeto.Controllers
 {

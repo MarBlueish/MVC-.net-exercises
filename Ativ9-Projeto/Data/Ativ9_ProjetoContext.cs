@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using Ativ9_Projeto;
+using Ativ9_Projeto.Models;
 
 namespace Ativ9_Projeto.Data
 {
@@ -14,6 +14,11 @@ namespace Ativ9_Projeto.Data
         {
         }
 
-        public DbSet<Ativ9_Projeto.Viatura> Viatura { get; set; } = default!;
+        public DbSet<Viatura> Viatura { get; set; } = default!;
+
+        public DbSet<Funcionario>? Funcionario { get; set; }
+
+        public DbSet<Cliente>? Cliente { get; set; }
+        public object Clientes { get; internal set; }
     }
 }

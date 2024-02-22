@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ativ9-Projeto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c5ecc6735147357e9fe4ca6c7b78b46ab2e303f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+639d39e866d0e8ef74be3c5ce13830ec76fc0cb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ativ9-Projeto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ativ9-Projeto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\viatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:viatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\views\\funcionarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:views\\funcionarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\views\\funcionarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:views\\funcionarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\views\\funcionarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:views\\funcionarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\views\\funcionarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:views\\funcionarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\views\\funcionarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:views\\funcionarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\migrations\\20240222183703_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:migrations\\20240222183703_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\controllers\\viaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:controllers\\viaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ViaturasController.cs",
-              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Controllers\\ViaturasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ViaturasController.cs",
-              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Controllers\\ViaturasController.cs",
-              "RelativeToolTip": "Controllers\\ViaturasController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T17:24:59.71Z",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Funcionarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Funcionarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Funcionarios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Funcionarios\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T19:31:16.408Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Funcionarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Funcionarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Funcionarios\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Funcionarios\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T19:31:14.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Funcionarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Funcionarios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Funcionarios\\Details.cshtml",
+              "RelativeToolTip": "Views\\Funcionarios\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T19:31:12.275Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAC5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T17:16:57.724Z",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Funcionarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Funcionarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Funcionarios\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Funcionarios\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T19:31:08.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Viatura.cs",
-              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Viatura.cs",
-              "RelativeDocumentMoniker": "Viatura.cs",
-              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Viatura.cs",
-              "RelativeToolTip": "Viatura.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Funcionarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Funcionarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Funcionarios\\Create.cshtml",
+              "RelativeToolTip": "Views\\Funcionarios\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T19:30:58.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T19:30:44.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T19:30:17.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwC8AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T17:10:34.366Z",
+              "WhenOpened": "2024-02-22T19:24:10.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240222183703_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Migrations\\20240222183703_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240222183703_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Migrations\\20240222183703_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240222183703_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T19:22:28.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T17:16:57.724Z",
               "EditorCaption": ""
             }
           ]
