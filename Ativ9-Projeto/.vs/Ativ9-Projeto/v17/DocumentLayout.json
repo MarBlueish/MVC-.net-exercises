@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\viatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:viatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|c:\\users\\marco\\onedrive\\ambiente de trabalho\\curso\\10792asp\\mvc-.net-exercises\\ativ9-projeto\\controllers\\viaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D762DA13-8217-45F4-A661-3250F07F35AD}|Ativ9-Projeto.csproj|solutionrelative:controllers\\viaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViaturasController.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Controllers\\ViaturasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ViaturasController.cs",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Controllers\\ViaturasController.cs",
+              "RelativeToolTip": "Controllers\\ViaturasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T17:24:59.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAC5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T17:16:57.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Viatura.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Viatura.cs",
+              "RelativeDocumentMoniker": "Viatura.cs",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Ambiente de Trabalho\\Curso\\10792asp\\MVC-.net-exercises\\Ativ9-Projeto\\Viatura.cs",
+              "RelativeToolTip": "Viatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T17:10:34.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
